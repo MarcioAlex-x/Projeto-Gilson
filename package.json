@@ -1,0 +1,23 @@
+{
+  "name": "projetogilson",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/MarcioAlex-x/ProjetoMonikue#readme",
+  "bugs": {
+    "url": "https://github.com/MarcioAlex-x/ProjetoMonikue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioAlex-x/ProjetoMonikue.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "firebaseconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^12.12.1"
+  }
+}
